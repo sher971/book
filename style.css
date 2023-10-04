@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;600;700&family=Roboto:wght@300;400;900&display=swap');
+
+
+.head{
+   
+    font-family:'Dancing Script', cursive;
+    margin-left: 470px;
+    color: rgb(0, 0, 0);
+   margin-bottom: 110px;
+   font-size: 100px;
+  
+
+}
+
+.para{
+    font-family:'Dancing Script', cursive;
+    margin-left: 540px;
+    color: rgb(58, 44, 0);
+    font-size: 20px;
+   margin-bottom: 110px;
+   font-weight: 100px;
+
+ 
+}
+.bttn{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #441300;
+    border: 1px solif #290000;
+    padding: 12px 34px;
+    font-size: 13px;
+    background: transparent;
+    position: relative;
+    cursor:pointer;
+   
+}
+.bttn{
+    border:1px solid#f39304;
+    background: transparent;
+    color: #350000;
+    margin-left: 550px;
+    
+  }
+
+  .bttn:hover{
+    color:#e6e6e6;
+  }
+  body{
+    background-image:linear-gradient(rgba(44, 32, 0, 0.7),rgba(255, 198, 74, 0.7)),url("123.jpg");
+    background-size: cover;
+
+    padding:0;
+    margin:0;
+}
+.footer{
+  margin-left: 0px;
+  margin-top: 180px;
+  padding:1px;
+  background: linear-gradient(45deg,rgb(184, 106, 5),rgb(221, 221, 221));
+  justify-content: baseline;
+}
+.foot{
+  margin-left: 500px;
+}
+.eee{
+  margin-left: 550px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+.wow{
+  margin-left: 1200px;
+}
